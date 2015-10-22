@@ -7,6 +7,9 @@ body {
 
 
 
+.landing-page {
+     background: linear-gradient( #83C7E9, #7FA1D4);
+}
 
 h1 {
 	color: white;
