@@ -1,0 +1,209 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+
+
+
+h1 {
+	color: white;
+	font-size: 80px;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: white;
+	font-size: 30px;
+	font-weight: 100;
+	margin-top: 0;
+}
+
+#lptext {
+	display: block;
+	float: left;
+	margin-left: 15vw;
+	margin-top: 0px;
+	top: 100px;
+	position: absolute;
+}
+
+.landing-page img {
+	float: right;
+	height: 70vh;
+	margin-right: 10vw;
+}
+
+#buy {
+    border: 1px solid white;
+    border-radius: 3px;
+    font-size: .875em;
+    padding: 1em;
+	width: 155px;
+	margin-top: 70px;
+}
+
+.landing-page span {
+	color: white;
+	font-size: 16px;
+	font-weight: 100;
+}
+
+
+
+
+.problem h3 {
+	width: 700px;
+	color: white;
+	font-size: 30px;
+	font-weight: 300;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.problem p {
+	width: 600px;
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#ptext {
+	margin-top: -100px;
+}
+
+.problem {
+	background: url(assets/emotionless.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+
+
+
+
+
+.solution h3 {
+	width: 480px;
+	color: black;
+	font-size: 30px;
+	font-weight: 300;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -100px;
+}
+
+.solution p {
+	width: 520px;
+	color: black;
+	font-size: 20px;
+	font-weight: 200;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.solution {
+	background: url(assets/emotion.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+
+
+
+
+
+.feature h4 {
+	font-size: 30px;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+
+.feature p {
+	width: 33vw;
+	font-size: 20px;
+	font-weight: 100;
+}
+
+.ftext {
+	float: right;
+	display: block;
+	margin-right: 15vw;
+}
+
+.feature img {
+	float: left;
+	margin-left: 15vw;
+	height: 70vh;
+}
+
+.feature span {
+	font-weight: 300;
+}
+
+
+
+
+
+.connect h3 {
+	width: 700px;
+	color: black;
+	font-size: 30px;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+
+.connect p {
+	width: 600px;
+	color: black;
+	font-size: 20px;
+	font-weight: 100;
+}
+
+#connect-text {
+	float: left;
+	margin-left: 10vw;
+	margin-top: -300px;
+	position: absolute;
+}
+
+.connect img {
+	position: absolute;
+	float: right;
+	height: 120vh;
+	top: -9.75vh;
+	overflow: hidden;
+	margin-left: 60vw;
+}
+
+
+
+
+
+.review h3 {
+	font-size: 30px;
+	font-weight: 300;
+	margin-left: 10vw;
+	margin-top: -5vh;
+    color: white;
+}
+	
+.review p {
+	font-size: 20px;
+	font-weight: 200;
+    color: white;
+	width: 20vw;
+	display: inline-block;
+	vertical-align: top;
+	padding-right: 5vw;
+	margin-bottom: 30px;
+}
+
+#quote {
+    margin-left: 15vw;
+}
